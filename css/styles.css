@@ -1,0 +1,31 @@
+
+
+body{
+  background-image: linear-gradient(#79d70f, #f5a31a);
+  font-family: Croissant One;
+}
+
+a:hover{color : red;}
+
+
+hr{
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1{
+  text-transform: capitalize;
+  color: #6a097d;
+  text-shadow: 3px 3px 6px #0a97b0;
+}
+
+h3{
+  color: #0a97b0;
+}
+
+a{
+  text-decoration: none;
+}
